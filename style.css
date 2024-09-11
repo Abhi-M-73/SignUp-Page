@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #cdd1db;
+    background-color: #b4aae9;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,14 +20,14 @@ body {
     flex-wrap: wrap;
     max-width: 1000px;
     width: 100%;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     border-radius: 20px;
     overflow: hidden;
 }
 
 /* Left section design */
 .left-section {
-    background: url('signup.png') no-repeat center;
+    background: url('boy.png') no-repeat center;
     background-size: cover;
     flex: 1;
     padding: 50px;
@@ -41,7 +41,7 @@ body {
 
 /* Right section design */
 .right-section {
-    background-color: #fff;
+    background-color: #FFFFFF;
     padding: 50px;
     flex: 1;
     display: flex;
